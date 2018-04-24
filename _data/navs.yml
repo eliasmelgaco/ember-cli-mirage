@@ -26,6 +26,7 @@ v0.4.x:
   - section: Cookbook
     label: Manually starting Mirage
   - label: Simulating cookie responses
+  - label: Using Ember Engines
 
 v0.3.x:
   - section: Getting started
